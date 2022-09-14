@@ -7,10 +7,6 @@ Implementation of the classic "Nine Men's Morris" game in Python 🐍, using
 Features multiple options of play, including Player vs Player and against an AI
 with multiple levels of difficulty.
 
-<!--<div style="display: flex; flex-direction: row; justify-content:center;">-->
-    <!--<img src='./assets/game_table.png' alt='demo' width=20%>-->
-<!--</div>-->
-
 <div style="margin: 10px;">
     <img src='./assets/game_table.png' alt='table' width=120px align=right>
 </div>
@@ -31,6 +27,6 @@ pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) optimization.
 
 ### Demo 📽
 
-<div style="display:flex; flex-direction: row; justify-content: center;">
-    <img src='./assets/demo.gif' alt='demo' width=350px>
+<div>
+    <img src='./assets/demo.gif' alt='demo' width=350px align=center>
 </div>
