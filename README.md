@@ -1,4 +1,4 @@
-# Nine Men's Morris
+# Nine Men's Morris 🕹️
 
 ### About ℹ️
 
@@ -12,7 +12,7 @@ with multiple levels of difficulty.
 <!--</div>-->
 
 <div style="margin: 10px;">
-    <img src='./assets/game_table.png' alt='demo' width=120px align=right>
+    <img src='./assets/game_table.png' alt='table' width=120px align=right>
 </div>
 
 The code is written in a single file and the result is _rough around the edges_
@@ -31,9 +31,6 @@ pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) optimization.
 
 ### Demo 📽
 
-<!--<div style="display: flex; flex-direction: row; justify-content:center;">-->
-    <!--<img src='./assets/game_table.png' alt='demo' width=50%>-->
-<!--</div>-->
-
-<!--![Demo](./assets/game_table.png)-->
-<!--img[alt=Demo] { width: 200px; }-->
+<div style="display:flex; flex-direction: row; justify-content: center;">
+    <img src='./assets/demo.gif' alt='demo' width=350px>
+</div>
