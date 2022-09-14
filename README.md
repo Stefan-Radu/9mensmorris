@@ -8,7 +8,7 @@ Features multiple options of play, including Player vs Player and against an AI
 with multiple levels of difficulty.
 
 <div style="margin: 10px;">
-    <img src='./assets/game_table.png' alt='table' width=120px align=right>
+    <img src='./assets/game_table.png' alt='table' width=100px align=right>
 </div>
 
 The code is written in a single file and the result is _rough around the edges_
@@ -27,6 +27,6 @@ pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) optimization.
 
 ### Demo 📽
 
-<div>
-    <img src='./assets/demo.gif' alt='demo' width=350px align=center>
+<div align="center">
+    <img src='./assets/demo.gif' alt='demo' width=350px>
 </div>
